@@ -1,0 +1,41 @@
+/*  block型表格样式  */
+.TableBlock{
+   border:1px #b8d1e2 solid;
+   line-height:20px;
+   font-size:9pt;
+   border-collapse:collapse;
+}
+.TableBlock td{
+   padding:3px;
+   color:#000000;
+}
+.TableBlock .TableHeader td,
+.TableBlock td.TableHeader{
+   border:1px #b8d1e2 solid;
+   font-weight:bold;
+   color:#476074;
+   line-height:23px;
+   padding:0px;
+}
+.TableBlock .TableData td,
+.TableBlock td.TableData{
+   background:#FFFFFF;
+   border-top:1px #CFDDEA solid;
+   border-right:1px #CFDDEA solid;
+}
+.TableBlock .TableContent td,
+.TableBlock td.TableContent{
+   background:#F0F0F0;
+   border-top:1px #CFDDEA solid;
+   border-right:1px #CFDDEA solid;
+}
+.TableBlock td.TableFooter,
+.TableBlock td.TableControl{
+   background: #EFF7FF;
+   border:1px #CFDDEA solid;
+}
+.TableBlock .TableRed td,
+.TableBlock td.TableRed
+{
+   background:#FFEBEB;
+}

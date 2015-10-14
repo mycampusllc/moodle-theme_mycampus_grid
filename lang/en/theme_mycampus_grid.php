@@ -11,12 +11,12 @@
 $string['choosereadme'] = '
 <div class="clearfix">
 <div class="well">
-<h2>mycampus_1</h2>
-<p><img class=img-polaroid src="mycampus_1/pix/screenshot.jpg" /></p>
+<h2>mycampus_grid</h2>
+<p><img class=img-polaroid src="mycampus_grid/pix/screenshot.jpg" /></p>
 </div>
 <div class="well">
-<h3>About mycampus_1 skin declare</h3>
-<p>mycampus_1 is Mycampus LLC development, based on Moodle bootstrap skin.</p>
+<h3>About mycampus_grid skin declare</h3>
+<p>mycampus_grid is Mycampus LLC development, based on Moodle bootstrap skin.</p>
 <p>The skin is free but required under the Site [This skin supplied by MYCAMPUS LLC] words, for the removal, please buy this skin.</p>
 
 <p>Feature 1: You can count the number of courses system which each teacher, chapter number, annex number, the number of students participating, the number of jobs, the number of messages, the results count, count, etc. discuss these data, the data form the basis of a quantitative assessment of teacher for the administration to provide an intuitive charts.</p>
@@ -24,14 +24,14 @@ $string['choosereadme'] = '
 <p>Feature 3: You can display the system user views the last 30 days and the amount of system access in the index page.</p>
 <p>Feature 4: statistical information supports output curriculum, curriculum packet statistics, user access statistics, active teacher ratio, the proportion of students active in five statistical reports.</p>
 
-<p>Note: If you are linuxs systems, courses upload pictures of time need /theme/mycampus_1/images folder permissions set to 777</p>
+<p>Note: If you are linuxs systems, courses upload pictures of time need /theme/mycampus_grid/images folder permissions set to 777</p>
 <p>Developers:Mycampus LLC Wangjiyun</p>
 <p>Contact: 83102413@qq.com</p>
 <p>Website: <a href="http://www.mycampus.us">www.mycampus.us</p>
 </div></div>';
 
-$string['configtitle']					= 'mycampus_1';
-$string['pluginname']					= 'mycampus_1';
+$string['configtitle']					= 'mycampus_grid';
+$string['pluginname']					= 'mycampus_grid';
 
 $string['wonderfulcourse']				= 'Wonderful courses';
 $string['wonderfulcoursedesc']			= 'Below the logo region, the value of wonderful courses, you need to manually specify below';
